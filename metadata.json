@@ -1,0 +1,6 @@
+{
+  "name": "다이브 영어학원 - 상담 및 학원 관리 시스템",
+  "description": "다이브 영어학원의 학생 관리, RTP 테스트 자동 분석, STT 음성 요약 AI 및 학부모 전달용 스마트 상담 결과지 관리 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
